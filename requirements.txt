@@ -1,0 +1,8 @@
+pandas
+faiss-cpu
+cohere
+streamlit
+torch
+transformers
+python-dotenv
+tqdm
